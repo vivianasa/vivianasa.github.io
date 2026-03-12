@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Vivian Fang"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: try.qmd
+        text: try1
+      - href: cv.qmd
+        text: CV
+
+format:
+  html:
+    theme: Morph
+    css: styles.css
+    toc: true
+
+
+

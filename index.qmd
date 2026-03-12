@@ -1,0 +1,13 @@
+---
+title: ""
+image: "images/1.jpg"
+about:
+  template: solana
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/vivianasa
+    
+---
+
+My name is Zixuan Fang, I am a PhD researcher at Monash University. My research focuses on behavioral Finance and dynamic portfolio choice, with particular interest in how psychological factors shape investor preferences and asset allocation decisions.
