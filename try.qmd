@@ -1,5 +1,0 @@
----
-title: ""
----
-
-<iframe src="try/try.pdf" style="height: 680px; width: 960px;scrolling=no"></iframe> 
