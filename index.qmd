@@ -1,13 +1,23 @@
 ---
-title: ""
-image: "images/1.jpg"
-about:
-  template: solana
-  links:
-    - icon: github
-      text: Github
-      href: https://github.com/vivianasa
-    
+title: "Zixuan Fang"
 ---
 
-My name is Zixuan Fang, I am a PhD researcher at Monash University. My research focuses on behavioral Finance and dynamic portfolio choice, with particular interest in how psychological factors shape investor preferences and asset allocation decisions.
+## About me
+
+I am a PhD candidate at Monash Business School, Monash University. My research lies at the intersection of quantitative finance, decision theory, and risk analytics.
+
+My current research focuses on preference structures in portfolio choice, especially the distinction between risk aversion and strength of preference in dynamic decision-making models.
+
+## Research interests
+
+- Quantitative finance
+- Portfolio choice
+- Decision theory
+- Risk preferences
+- Risk analytics
+
+## Links
+
+- [CV](cv.qmd)
+- LinkedIn: add your LinkedIn link here
+- Email: add your Monash email here
