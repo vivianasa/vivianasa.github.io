@@ -1,9 +1,37 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can download my CV here: Download CV"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Vivian Fang",
+    "title": "Zixuan Fang",
     "section": "",
-    "text": "My name is Zixuan Fang, I am a PhD researcher at Monash University. My research focuses on behavioral Finance and dynamic portfolio choice, with particular interest in how psychological factors shape investor preferences and asset allocation decisions."
+    "text": "I am a PhD candidate at Monash Business School, Monash University. My research lies at the intersection of quantitative finance, decision theory, and risk analytics.\nMy current research focuses on preference structures in portfolio choice, especially the distinction between risk aversion and strength of preference in dynamic decision-making models."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Zixuan Fang",
+    "section": "",
+    "text": "I am a PhD candidate at Monash Business School, Monash University. My research lies at the intersection of quantitative finance, decision theory, and risk analytics.\nMy current research focuses on preference structures in portfolio choice, especially the distinction between risk aversion and strength of preference in dynamic decision-making models."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Zixuan Fang",
+    "section": "Research interests",
+    "text": "Research interests\n\nQuantitative finance\nPortfolio choice\nDecision theory\nRisk preferences\nRisk analytics"
+  },
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "Zixuan Fang",
+    "section": "Links",
+    "text": "Links\n\nCV\nLinkedIn: add your LinkedIn link here\nEmail: add your Monash email here"
   }
 ]
