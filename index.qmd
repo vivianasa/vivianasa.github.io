@@ -19,5 +19,5 @@ My current research focuses on preference structures in portfolio choice, especi
 ## Links
 
 - [CV](cv.qmd)
-- LinkedIn: add your LinkedIn link here
-- Email: add your Monash email here
+- [LinkedIn](https://www.linkedin.com/in/zixuan-fang-4b626a414/)
+- Email: [zixuan.fang@monash.edu](mailto:zixuan.fang@monash.edu)
